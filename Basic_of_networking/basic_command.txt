@@ -1,0 +1,65 @@
+Here are some Basic commands of linux OS.
+
+1. 	help		### shows basic commands and their uses
+	ex. ls --help
+__________________________________________________________________________________
+
+2. 	man		### complete manual of that command or program
+	ex. man ls
+__________________________________________________________________________________
+
+3.	ls/ Ls	### list all the directory and files
+	ex. ls or ls /downloads
+	ex. ls -l
+__________________________________________________________________________________
+4. 	cd		### change the directory
+	ex. cd downloads
+__________________________________________________________________________________
+5. 	pwd		### print working directory
+	ex. pwd
+__________________________________________________________________________________
+
+6. 	dir		### same as ls
+	ex. dir
+__________________________________________________________________________________
+
+7. 	mkdir		### make my directory or create a folder
+	ex. mkdir folder1
+	ex. mkdir /downloads/folder2
+__________________________________________________________________________________
+
+8. 	cp		### copy any file or folder
+	ex. cp folder2 /home/kali/desktop
+__________________________________________________________________________________
+
+9. 	mv		### move any file or folder 
+	ex. mv move_folder_location where_to_move_folder
+__________________________________________________________________________________
+
+10. 	rm		### remove any files or folder
+	ex. rm folder_name
+__________________________________________________________________________________
+
+11. 	sudo su		### grant root privileges give admin permission 
+	ex. rm bin # permission denied
+		sudo rm bin 
+	ex. sudo su # give permission to all terminal
+__________________________________________________________________________________
+
+12.	cat		### shows content of a file
+	ex. cat my.txt or cat file_name.extention 
+__________________________________________________________________________________
+
+13.	nano		### Linux file editor
+	ex. nano my.txt # if file found then it can open it or create it
+__________________________________________________________________________________
+
+14.	gedit		### file editor software
+	ex. gedit my.txt or gedit file_name
+__________________________________________________________________________________
+
+15.	chmod		### change directory permission
+	ex. chmod +x my.txt # permission for execution
+	ex. chmod +r and +w for the same
+
+	ex. chmod -x my.txt # remove permission for execution
