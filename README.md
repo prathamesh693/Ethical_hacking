@@ -6,7 +6,7 @@ This repository is dedicated to my journey of learning **ethical hacking**.
 Starting from the basics, I'll document key concepts, tools, techniques, and my hands-on experiences along the way.
 
 ## Topics Covered
-***Basic Of Networking***
+## ***Basic Of Networking***
 1. ### **Networking Fundamentals**
    - Understanding TCP/IP Model
    - IP addressing and Subnetting
